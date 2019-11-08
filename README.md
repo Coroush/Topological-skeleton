@@ -30,7 +30,7 @@ In shape analysis, skeleton (or topological skeleton) of a shape is a thin versi
 |               |                |               |
 | ------------- | -------------- | ------------- | 
 |1. Defining Boundary curve and Hole Curve. ![workflow](doc/workflow/00.jpg) | 2. Generating points on the edges.![workflow](doc/workflow/01.jpg) | 3. Generating initial mesh. ![workflow](doc/workflow/02.jpg) |
-|4. Generating circumcircle of each face. ![workflow](doc/workflow/03.jpg) | 5. Extracting center points of each circle.![workflow](doc/workflow/04.jpg) |6. Connecting the points based on face adjacency. ![workflow](doc/workflow/04.jpg) |
+|4. Generating circumcircle of each face. ![workflow](doc/workflow/03.jpg) | 5. Extracting center points of each circle.![workflow](doc/workflow/04.jpg) |6. Connecting the points based on face adjacency. ![workflow](doc/workflow/05.jpg) |
 
 - Grasshopper definition
 ![gh](doc/gh_defenition.png)
